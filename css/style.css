@@ -1,1 +1,20 @@
-/* add CSS class and element and selectors here */
+  body {
+      background-color:#DEFF8B  ;
+      font-size: 150%;
+    }
+h1 { color: #576F19;
+font-family: 'Just Another Hand', cursive;
+}
+
+h2{
+   color:#729E20;
+   font-family: 'PT Sans', sans-serif;
+}
+.info-section {
+  font-size: 75%;
+  font-family: 'Hind Madurai', sans-serif;
+  border: 1px dotted ,blue;
+}
+#title-section{
+  color: #D6D42A;
+}
